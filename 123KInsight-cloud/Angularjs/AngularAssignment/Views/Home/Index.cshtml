@@ -1,0 +1,49 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="tab-pane active" ng-controller="EngineeringController">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-12">
+                <h4 class="grid-title">{{title}}</h4>
+            </div>
+        </div>
+    </div>
+    <div class="row paddingr15">
+        <div class="col-md-12 ">
+            <div class="table-responsive">
+                <div class="sortable-table">
+                    <table ng-table="tableParams" class="table table-bordered table-hover table-striped table-with-action table-condensed">
+                        <tr ng-repeat="Item in Items" ng-click="onOpenClick(Item)">
+                            <td data-title="'Student Name'" data-sortable="'StudentName'">
+                                {{Item.StudentName}}
+                            </td>
+                            <td data-title="'Age'" data-sortable="'Age'">
+                                {{Item.Age}}
+                            </td>
+                            <td data-title="'Address'" data-sortable="'Address'">
+                                {{Item.Address}}
+                            </td>
+                            <td data-title="'College Name'" data-sortable="'CollegeName'">
+                                {{Item.CollegeName}}
+                            </td>
+                            <td class="align-right" data-title="'Department'" data-sortable="'Department'">
+                                {{Item.Department}}
+                            </td>
+                            <td class="align-right" data-title="'About'" data-sortable="'About'">
+                                {{Item.About}}
+                            </td>
+                            <td class="align-right" data-title="'Contact'" data-sortable="'Contact'">
+                                {{Item.Contact}}
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+    @Html.Partial("IndexEdit")
+</div>
+
+

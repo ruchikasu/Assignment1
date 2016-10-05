@@ -1,0 +1,94 @@
+﻿<script type="text/ng-template" id="Edit.html">
+    <div class=" modal-header">
+        <h2>Student Details</h2>
+    </div>
+    <div class="container margin-top-15">
+        <div class="row">
+            <div class="col-xs-12">              
+                <form name="editForm" id="editForm" class="form-horizontal" novalidate>
+                    <fieldset>
+                        <div>
+                            <div>Student Name:<span ng-bind="studentInfo.StudentName"></span></div><br />
+                            <div>Age:<span ng-bind="studentInfo.Age"></span></div><br />
+                            <div>Address:<span ng-bind="studentInfo.Address"></span></div><br />
+                            <div>Contact:<span ng-bind="studentInfo.Contact"></span></div><br />
+                        </div>
+                        <div class="form-group">
+                            <h3 class="col-lg-8">Update Student Info</h3><br /><br /><br />
+                            <label class=" col-xs-4 control-label">Student Name<span class="mandatory-field" style=color:red>*</span></label>
+                            <div class="col-xs-6">
+                                <input type="text"
+                                       class="form-control"
+                                       name="StudentName"
+                                       ng-model="studentInfo.StudentName"
+                                       ng-model-options="{ updateOn: 'blur'}"
+                                       autofocus                                       
+                                       maxlength="15"
+                                       required>
+                                <span class="field-validation-error" ng-show="editForm.$submitted || (editForm.StudentName.$dirty && editForm.StudentName.$invalid)">
+                                    <span ng-show="editForm.StudentName.$error.required">Student Name is required.</span>
+                                </span>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class=" col-xs-4 control-label">Age<span class="mandatory-field" style=color:red>*</span></label>
+                            <div class="col-xs-6">
+                                <input type="number"
+                                       class="form-control"
+                                       name="Age"
+                                       ng-model="studentInfo.Age"
+                                       ng-model-options="{ updateOn: 'blur'}"
+                                       min="1"
+                                       max="100"
+                                       required />
+                                <span class="field-validation-error" ng-show="editForm.$submitted || (editForm.Age.$dirty && editForm.Age.$invalid)">
+                                    <span ng-show="editForm.Age.$error.required">Age is required.</span>
+                                </span>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class=" col-xs-4 control-label">Address<span class="mandatory-field" style=color:red>*</span></label>
+                            <div class="col-xs-6">
+                                <input type="text"
+                                       class="form-control"
+                                       name="Address"
+                                       ng-model="studentInfo.Address"
+                                       ng-model-options="{ updateOn: 'blur'}"
+                                       maxlength="50"
+                                       required>
+                                <span class="field-validation-error" ng-show="editForm.$submitted || (editForm.Address.$dirty && editForm.Address.$invalid)">
+                                    <span ng-show="editForm.Address.$error.required">Address is required.</span>
+                                </span>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class=" col-xs-4 control-label">Contact<span class="mandatory-field" style=color:red>*</span></label>
+                            <div class="col-xs-6">
+                                <input type="number"
+                                       class="form-control"
+                                       name="Contact"
+                                       ng-model="studentInfo.Contact"
+                                       ng-model-options="{ updateOn: 'blur'}"
+                                       ng-maxlength="10"
+                                       required />
+                                <span class="field-validation-error" ng-show="editForm.$submitted || (editForm.Contact.$dirty && editForm.Contact.$invalid)">
+                                    <span ng-show="editForm.Contact.$error.required">Contact is required.</span>
+                                    <span ng-show="editForm.Contact.$error.maxlength">Contact must be a number upto 10 digits.</span>
+                                </span>
+                            </div>
+                        </div>
+                    </fieldset>
+                    <div class="row">
+                        <div class="col-sm-12 col-xs-12">
+                            <div class="modal-footer">
+                                <button type="submit" class="btn btn-primary btn-sm" ng-click="onSaveClick(studentInfo)">Save</button>
+                                <button type="button" class="btn btn-default btn-sm" ng-click="onCancelClick(studentInfo)">Cancel</button>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</script>
+

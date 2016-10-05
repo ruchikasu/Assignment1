@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>AngularJs.MVC</id>
+    <version>1.0.0</version>
+    <title>AngularJs.MVC</title>
+    <authors>Andrew Siemer</authors>
+    <owners>Andrew Siemer</owners>
+    <projectUrl>https://bitbucket.org/asiemer/angularjs.mvc</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Provides html helpers to generate angularjs compatible input controls.  Also uses FluentValidation to aid in client/server validation.</description>
+    <summary />
+    <dependencies>
+      <dependency id="FluentValidation" version="4.0.0" />
+      <dependency id="StructureMap" version="2.6.4" />
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.Web" targetFramework=".NETFramework4.0" />
+      <frameworkAssembly assemblyName="System.Net" targetFramework=".NETFramework4.0-Client, .NETFramework4.0" />
+      <frameworkAssembly assemblyName="System.Net.Http.Formatting" targetFramework=".NETFramework4.0" />
+      <frameworkAssembly assemblyName="System.Web.Http" targetFramework=".NETFramework4.0" />
+    </frameworkAssemblies>
+  </metadata>
+</package>

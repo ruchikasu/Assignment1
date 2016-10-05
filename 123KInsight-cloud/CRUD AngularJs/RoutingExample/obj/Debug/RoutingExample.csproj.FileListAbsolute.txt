@@ -1,0 +1,112 @@
+c:\users\ruchikasu\documents\visual studio 2013\Projects\RoutingExample\RoutingExample\bin\RoutingExample.dll.config
+c:\users\ruchikasu\documents\visual studio 2013\Projects\RoutingExample\RoutingExample\bin\RoutingExample.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\RoutingExample\RoutingExample\bin\RoutingExample.pdb
+c:\users\ruchikasu\documents\visual studio 2013\Projects\RoutingExample\RoutingExample\bin\System.Web.Helpers.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\RoutingExample\RoutingExample\bin\System.Web.Mvc.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\RoutingExample\RoutingExample\bin\System.Web.Razor.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\RoutingExample\RoutingExample\bin\System.Web.Webpages.Deployment.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\RoutingExample\RoutingExample\bin\System.Web.Webpages.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\RoutingExample\RoutingExample\bin\System.Web.Webpages.Razor.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\RoutingExample\RoutingExample\bin\System.Web.Razor.xml
+c:\users\ruchikasu\documents\visual studio 2013\Projects\RoutingExample\RoutingExample\bin\System.Web.Webpages.xml
+c:\users\ruchikasu\documents\visual studio 2013\Projects\RoutingExample\RoutingExample\bin\System.Web.Webpages.Deployment.xml
+c:\users\ruchikasu\documents\visual studio 2013\Projects\RoutingExample\RoutingExample\bin\System.Web.Webpages.Razor.xml
+c:\users\ruchikasu\documents\visual studio 2013\Projects\RoutingExample\RoutingExample\bin\System.Web.Helpers.xml
+c:\users\ruchikasu\documents\visual studio 2013\Projects\RoutingExample\RoutingExample\bin\System.Web.Mvc.xml
+c:\users\ruchikasu\documents\visual studio 2013\Projects\RoutingExample\RoutingExample\obj\Debug\RoutingExample.csprojResolveAssemblyReference.cache
+c:\users\ruchikasu\documents\visual studio 2013\Projects\RoutingExample\RoutingExample\obj\Debug\RoutingExample.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\RoutingExample\RoutingExample\obj\Debug\RoutingExample.pdb
+c:\users\ruchikasu\documents\visual studio 2013\Projects\RoutingExample\RoutingExample\bin\EntityFramework.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\RoutingExample\RoutingExample\bin\EntityFramework.xml
+c:\users\ruchikasu\documents\visual studio 2013\Projects\RoutingExample\RoutingExample\bin\Newtonsoft.Json.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\RoutingExample\RoutingExample\bin\System.Net.Http.Formatting.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\RoutingExample\RoutingExample\bin\System.Web.Http.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\RoutingExample\RoutingExample\bin\System.Web.Http.WebHost.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\RoutingExample\RoutingExample\bin\Newtonsoft.Json.xml
+c:\users\ruchikasu\documents\visual studio 2013\Projects\RoutingExample\RoutingExample\bin\System.Net.Http.Formatting.xml
+c:\users\ruchikasu\documents\visual studio 2013\Projects\RoutingExample\RoutingExample\bin\System.Web.Http.xml
+c:\users\ruchikasu\documents\visual studio 2013\Projects\RoutingExample\RoutingExample\bin\System.Web.Http.WebHost.xml
+C:\Users\ruchikasu\Desktop\Insight123K Assignment\RoutingExample\RoutingExample\bin\RoutingExample.dll.config
+C:\Users\ruchikasu\Desktop\Insight123K Assignment\RoutingExample\RoutingExample\bin\RoutingExample.dll
+C:\Users\ruchikasu\Desktop\Insight123K Assignment\RoutingExample\RoutingExample\bin\RoutingExample.pdb
+C:\Users\ruchikasu\Desktop\Insight123K Assignment\RoutingExample\RoutingExample\bin\EntityFramework.dll
+C:\Users\ruchikasu\Desktop\Insight123K Assignment\RoutingExample\RoutingExample\bin\Newtonsoft.Json.dll
+C:\Users\ruchikasu\Desktop\Insight123K Assignment\RoutingExample\RoutingExample\bin\System.Net.Http.Formatting.dll
+C:\Users\ruchikasu\Desktop\Insight123K Assignment\RoutingExample\RoutingExample\bin\System.Web.Helpers.dll
+C:\Users\ruchikasu\Desktop\Insight123K Assignment\RoutingExample\RoutingExample\bin\System.Web.Http.dll
+C:\Users\ruchikasu\Desktop\Insight123K Assignment\RoutingExample\RoutingExample\bin\System.Web.Http.WebHost.dll
+C:\Users\ruchikasu\Desktop\Insight123K Assignment\RoutingExample\RoutingExample\bin\System.Web.Mvc.dll
+C:\Users\ruchikasu\Desktop\Insight123K Assignment\RoutingExample\RoutingExample\bin\System.Web.Razor.dll
+C:\Users\ruchikasu\Desktop\Insight123K Assignment\RoutingExample\RoutingExample\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ruchikasu\Desktop\Insight123K Assignment\RoutingExample\RoutingExample\bin\System.Web.Webpages.dll
+C:\Users\ruchikasu\Desktop\Insight123K Assignment\RoutingExample\RoutingExample\bin\System.Web.Webpages.Razor.dll
+C:\Users\ruchikasu\Desktop\Insight123K Assignment\RoutingExample\RoutingExample\bin\EntityFramework.xml
+C:\Users\ruchikasu\Desktop\Insight123K Assignment\RoutingExample\RoutingExample\bin\Newtonsoft.Json.xml
+C:\Users\ruchikasu\Desktop\Insight123K Assignment\RoutingExample\RoutingExample\bin\System.Net.Http.Formatting.xml
+C:\Users\ruchikasu\Desktop\Insight123K Assignment\RoutingExample\RoutingExample\bin\System.Web.Http.xml
+C:\Users\ruchikasu\Desktop\Insight123K Assignment\RoutingExample\RoutingExample\bin\System.Web.Http.WebHost.xml
+C:\Users\ruchikasu\Desktop\Insight123K Assignment\RoutingExample\RoutingExample\bin\System.Web.Razor.xml
+C:\Users\ruchikasu\Desktop\Insight123K Assignment\RoutingExample\RoutingExample\bin\System.Web.Webpages.xml
+C:\Users\ruchikasu\Desktop\Insight123K Assignment\RoutingExample\RoutingExample\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ruchikasu\Desktop\Insight123K Assignment\RoutingExample\RoutingExample\bin\System.Web.Webpages.Razor.xml
+C:\Users\ruchikasu\Desktop\Insight123K Assignment\RoutingExample\RoutingExample\bin\System.Web.Helpers.xml
+C:\Users\ruchikasu\Desktop\Insight123K Assignment\RoutingExample\RoutingExample\bin\System.Web.Mvc.xml
+C:\Users\ruchikasu\Desktop\Insight123K Assignment\RoutingExample\RoutingExample\obj\Debug\RoutingExample.csprojResolveAssemblyReference.cache
+C:\Users\ruchikasu\Desktop\Insight123K Assignment\RoutingExample\RoutingExample\obj\Debug\RoutingExample.dll
+C:\Users\ruchikasu\Desktop\Insight123K Assignment\RoutingExample\RoutingExample\obj\Debug\RoutingExample.pdb
+C:\Users\ruchikasu\Desktop\Work\Insight123K Assignment\RoutingExample\RoutingExample\bin\RoutingExample.dll.config
+C:\Users\ruchikasu\Desktop\Work\Insight123K Assignment\RoutingExample\RoutingExample\bin\RoutingExample.dll
+C:\Users\ruchikasu\Desktop\Work\Insight123K Assignment\RoutingExample\RoutingExample\bin\RoutingExample.pdb
+C:\Users\ruchikasu\Desktop\Work\Insight123K Assignment\RoutingExample\RoutingExample\bin\EntityFramework.dll
+C:\Users\ruchikasu\Desktop\Work\Insight123K Assignment\RoutingExample\RoutingExample\bin\Newtonsoft.Json.dll
+C:\Users\ruchikasu\Desktop\Work\Insight123K Assignment\RoutingExample\RoutingExample\bin\System.Net.Http.Formatting.dll
+C:\Users\ruchikasu\Desktop\Work\Insight123K Assignment\RoutingExample\RoutingExample\bin\System.Web.Helpers.dll
+C:\Users\ruchikasu\Desktop\Work\Insight123K Assignment\RoutingExample\RoutingExample\bin\System.Web.Http.dll
+C:\Users\ruchikasu\Desktop\Work\Insight123K Assignment\RoutingExample\RoutingExample\bin\System.Web.Http.WebHost.dll
+C:\Users\ruchikasu\Desktop\Work\Insight123K Assignment\RoutingExample\RoutingExample\bin\System.Web.Mvc.dll
+C:\Users\ruchikasu\Desktop\Work\Insight123K Assignment\RoutingExample\RoutingExample\bin\System.Web.Razor.dll
+C:\Users\ruchikasu\Desktop\Work\Insight123K Assignment\RoutingExample\RoutingExample\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ruchikasu\Desktop\Work\Insight123K Assignment\RoutingExample\RoutingExample\bin\System.Web.Webpages.dll
+C:\Users\ruchikasu\Desktop\Work\Insight123K Assignment\RoutingExample\RoutingExample\bin\System.Web.Webpages.Razor.dll
+C:\Users\ruchikasu\Desktop\Work\Insight123K Assignment\RoutingExample\RoutingExample\bin\EntityFramework.xml
+C:\Users\ruchikasu\Desktop\Work\Insight123K Assignment\RoutingExample\RoutingExample\bin\Newtonsoft.Json.xml
+C:\Users\ruchikasu\Desktop\Work\Insight123K Assignment\RoutingExample\RoutingExample\bin\System.Net.Http.Formatting.xml
+C:\Users\ruchikasu\Desktop\Work\Insight123K Assignment\RoutingExample\RoutingExample\bin\System.Web.Http.xml
+C:\Users\ruchikasu\Desktop\Work\Insight123K Assignment\RoutingExample\RoutingExample\bin\System.Web.Http.WebHost.xml
+C:\Users\ruchikasu\Desktop\Work\Insight123K Assignment\RoutingExample\RoutingExample\bin\System.Web.Razor.xml
+C:\Users\ruchikasu\Desktop\Work\Insight123K Assignment\RoutingExample\RoutingExample\bin\System.Web.Webpages.xml
+C:\Users\ruchikasu\Desktop\Work\Insight123K Assignment\RoutingExample\RoutingExample\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ruchikasu\Desktop\Work\Insight123K Assignment\RoutingExample\RoutingExample\bin\System.Web.Webpages.Razor.xml
+C:\Users\ruchikasu\Desktop\Work\Insight123K Assignment\RoutingExample\RoutingExample\bin\System.Web.Helpers.xml
+C:\Users\ruchikasu\Desktop\Work\Insight123K Assignment\RoutingExample\RoutingExample\bin\System.Web.Mvc.xml
+C:\Users\ruchikasu\Desktop\Work\Insight123K Assignment\RoutingExample\RoutingExample\obj\Debug\RoutingExample.csprojResolveAssemblyReference.cache
+C:\Users\ruchikasu\Desktop\Work\Insight123K Assignment\RoutingExample\RoutingExample\obj\Debug\RoutingExample.dll
+C:\Users\ruchikasu\Desktop\Work\Insight123K Assignment\RoutingExample\RoutingExample\obj\Debug\RoutingExample.pdb
+D:\123K Insight-cloud\CRUD AngularJs\RoutingExample\bin\RoutingExample.dll.config
+D:\123K Insight-cloud\CRUD AngularJs\RoutingExample\bin\RoutingExample.dll
+D:\123K Insight-cloud\CRUD AngularJs\RoutingExample\bin\RoutingExample.pdb
+D:\123K Insight-cloud\CRUD AngularJs\RoutingExample\bin\EntityFramework.dll
+D:\123K Insight-cloud\CRUD AngularJs\RoutingExample\bin\Newtonsoft.Json.dll
+D:\123K Insight-cloud\CRUD AngularJs\RoutingExample\bin\System.Net.Http.Formatting.dll
+D:\123K Insight-cloud\CRUD AngularJs\RoutingExample\bin\System.Web.Helpers.dll
+D:\123K Insight-cloud\CRUD AngularJs\RoutingExample\bin\System.Web.Http.dll
+D:\123K Insight-cloud\CRUD AngularJs\RoutingExample\bin\System.Web.Http.WebHost.dll
+D:\123K Insight-cloud\CRUD AngularJs\RoutingExample\bin\System.Web.Mvc.dll
+D:\123K Insight-cloud\CRUD AngularJs\RoutingExample\bin\System.Web.Razor.dll
+D:\123K Insight-cloud\CRUD AngularJs\RoutingExample\bin\System.Web.Webpages.Deployment.dll
+D:\123K Insight-cloud\CRUD AngularJs\RoutingExample\bin\System.Web.Webpages.dll
+D:\123K Insight-cloud\CRUD AngularJs\RoutingExample\bin\System.Web.Webpages.Razor.dll
+D:\123K Insight-cloud\CRUD AngularJs\RoutingExample\bin\EntityFramework.xml
+D:\123K Insight-cloud\CRUD AngularJs\RoutingExample\bin\Newtonsoft.Json.xml
+D:\123K Insight-cloud\CRUD AngularJs\RoutingExample\bin\System.Net.Http.Formatting.xml
+D:\123K Insight-cloud\CRUD AngularJs\RoutingExample\bin\System.Web.Http.xml
+D:\123K Insight-cloud\CRUD AngularJs\RoutingExample\bin\System.Web.Http.WebHost.xml
+D:\123K Insight-cloud\CRUD AngularJs\RoutingExample\bin\System.Web.Razor.xml
+D:\123K Insight-cloud\CRUD AngularJs\RoutingExample\bin\System.Web.Webpages.xml
+D:\123K Insight-cloud\CRUD AngularJs\RoutingExample\bin\System.Web.Webpages.Deployment.xml
+D:\123K Insight-cloud\CRUD AngularJs\RoutingExample\bin\System.Web.Webpages.Razor.xml
+D:\123K Insight-cloud\CRUD AngularJs\RoutingExample\bin\System.Web.Helpers.xml
+D:\123K Insight-cloud\CRUD AngularJs\RoutingExample\bin\System.Web.Mvc.xml
+D:\123K Insight-cloud\CRUD AngularJs\RoutingExample\obj\Debug\RoutingExample.csprojResolveAssemblyReference.cache
+D:\123K Insight-cloud\CRUD AngularJs\RoutingExample\obj\Debug\RoutingExample.dll
+D:\123K Insight-cloud\CRUD AngularJs\RoutingExample\obj\Debug\RoutingExample.pdb

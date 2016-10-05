@@ -1,0 +1,462 @@
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\AngularAssignment.dll.config
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\AngularAssignment.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\AngularAssignment.pdb
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\AngularJs.MVC.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\Antlr3.Runtime.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\EntityFramework.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\EntityFramework.SqlServer.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\FluentValidation.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Security.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Security.Google.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\Newtonsoft.Json.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\Owin.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\StructureMap.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\System.Net.Http.Formatting.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\System.Web.Helpers.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\System.Web.Http.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\System.Web.Mvc.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\System.Web.Optimization.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\System.Web.Razor.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\System.Web.WebPages.Deployment.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\System.Web.WebPages.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\System.Web.WebPages.Razor.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\WebGrease.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\AngularJs.MVC.pdb
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\FluentValidation.pdb
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\FluentValidation.xml
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\StructureMap.pdb
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\StructureMap.xml
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\System.Net.Http.Formatting.xml
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\System.Web.Http.xml
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\System.Web.Helpers.xml
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\System.Web.Mvc.xml
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\System.Web.Optimization.xml
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\System.Web.Razor.xml
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\System.Web.WebPages.xml
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\System.Web.WebPages.Deployment.xml
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\System.Web.WebPages.Razor.xml
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\Newtonsoft.Json.xml
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\Antlr3.Runtime.pdb
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\EntityFramework.xml
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\EntityFramework.SqlServer.xml
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.xml
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Security.xml
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Security.Google.xml
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\de\FluentValidation.resources.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\es\FluentValidation.resources.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\fr\FluentValidation.resources.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\it\FluentValidation.resources.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\nl\FluentValidation.resources.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\pl\FluentValidation.resources.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\pt\FluentValidation.resources.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\ru\FluentValidation.resources.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\sv\FluentValidation.resources.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\bin\tr\FluentValidation.resources.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\obj\Debug\AngularAssignment.csprojResolveAssemblyReference.cache
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\obj\Debug\AngularAssignment.dll
+c:\users\ruchikasu\documents\visual studio 2013\Projects\AngularAssignment\AngularAssignment\obj\Debug\AngularAssignment.pdb
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\AngularAssignment.dll.config
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\AngularAssignment.dll
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\AngularAssignment.pdb
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\AngularJs.MVC.dll
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\Antlr3.Runtime.dll
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\EntityFramework.dll
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\EntityFramework.SqlServer.dll
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\FluentValidation.dll
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.dll
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Security.dll
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\Newtonsoft.Json.dll
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\Owin.dll
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\StructureMap.dll
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\System.Net.Http.Formatting.dll
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\System.Web.Helpers.dll
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\System.Web.Http.dll
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\System.Web.Mvc.dll
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\System.Web.Optimization.dll
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\System.Web.Razor.dll
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\System.Web.WebPages.dll
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\System.Web.WebPages.Razor.dll
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\WebGrease.dll
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\AngularJs.MVC.pdb
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\FluentValidation.pdb
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\FluentValidation.xml
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\StructureMap.pdb
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\StructureMap.xml
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\System.Net.Http.Formatting.xml
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\System.Web.Http.xml
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\System.Web.Helpers.xml
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\System.Web.Mvc.xml
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\System.Web.Optimization.xml
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\System.Web.Razor.xml
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\System.Web.WebPages.xml
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\System.Web.WebPages.Razor.xml
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\Newtonsoft.Json.xml
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\Antlr3.Runtime.pdb
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\EntityFramework.xml
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\EntityFramework.SqlServer.xml
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.xml
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Security.xml
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\de\FluentValidation.resources.dll
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\es\FluentValidation.resources.dll
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\fr\FluentValidation.resources.dll
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\it\FluentValidation.resources.dll
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\nl\FluentValidation.resources.dll
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\pl\FluentValidation.resources.dll
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\pt\FluentValidation.resources.dll
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\ru\FluentValidation.resources.dll
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\sv\FluentValidation.resources.dll
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\bin\tr\FluentValidation.resources.dll
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\obj\Debug\AngularAssignment.csprojResolveAssemblyReference.cache
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\obj\Debug\AngularAssignment.dll
+C:\Users\ruchikasu\Desktop\Assignment\AngularAssignment\AngularAssignment\obj\Debug\AngularAssignment.pdb
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\AngularAssignment.dll.config
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\AngularAssignment.dll
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\AngularAssignment.pdb
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\AngularJs.MVC.dll
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\Antlr3.Runtime.dll
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\EntityFramework.dll
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\EntityFramework.SqlServer.dll
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\FluentValidation.dll
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.dll
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Security.dll
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Security.Google.dll
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\Microsoft.Web.Infrastructure.dll
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\Newtonsoft.Json.dll
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\Owin.dll
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\StructureMap.dll
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\System.Net.Http.Formatting.dll
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\System.Web.Helpers.dll
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\System.Web.Http.dll
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\System.Web.Mvc.dll
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\System.Web.Optimization.dll
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\System.Web.Razor.dll
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\System.Web.WebPages.Deployment.dll
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\System.Web.WebPages.dll
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\System.Web.WebPages.Razor.dll
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\WebGrease.dll
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\AngularJs.MVC.pdb
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\FluentValidation.pdb
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\FluentValidation.xml
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\StructureMap.pdb
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\StructureMap.xml
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\System.Net.Http.Formatting.xml
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\System.Web.Http.xml
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\System.Web.Helpers.xml
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\System.Web.Mvc.xml
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\System.Web.Optimization.xml
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\System.Web.Razor.xml
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\System.Web.WebPages.xml
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\System.Web.WebPages.Deployment.xml
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\System.Web.WebPages.Razor.xml
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\Newtonsoft.Json.xml
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\Antlr3.Runtime.pdb
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\EntityFramework.xml
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\EntityFramework.SqlServer.xml
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.xml
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Security.xml
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Security.Google.xml
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\de\FluentValidation.resources.dll
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\es\FluentValidation.resources.dll
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\fr\FluentValidation.resources.dll
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\it\FluentValidation.resources.dll
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\nl\FluentValidation.resources.dll
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\pl\FluentValidation.resources.dll
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\pt\FluentValidation.resources.dll
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\ru\FluentValidation.resources.dll
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\sv\FluentValidation.resources.dll
+D:\Ruchika\AngularAssignment\AngularAssignment\bin\tr\FluentValidation.resources.dll
+D:\Ruchika\AngularAssignment\AngularAssignment\obj\Debug\AngularAssignment.csprojResolveAssemblyReference.cache
+D:\Ruchika\AngularAssignment\AngularAssignment\obj\Debug\AngularAssignment.dll
+D:\Ruchika\AngularAssignment\AngularAssignment\obj\Debug\AngularAssignment.pdb
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\AngularAssignment.dll.config
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\AngularAssignment.dll
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\AngularAssignment.pdb
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\AngularJs.MVC.dll
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\Antlr3.Runtime.dll
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\EntityFramework.dll
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\EntityFramework.SqlServer.dll
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\FluentValidation.dll
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\Microsoft.AspNet.Identity.Core.dll
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\Microsoft.AspNet.Identity.Owin.dll
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\Microsoft.Owin.dll
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\Microsoft.Owin.Security.Cookies.dll
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\Microsoft.Owin.Security.dll
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\Microsoft.Owin.Security.Facebook.dll
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\Microsoft.Owin.Security.Google.dll
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\Microsoft.Owin.Security.OAuth.dll
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\Microsoft.Owin.Security.Twitter.dll
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\Microsoft.Web.Infrastructure.dll
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\Newtonsoft.Json.dll
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\Owin.dll
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\StructureMap.dll
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\System.Net.Http.Formatting.dll
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\System.Web.Helpers.dll
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\System.Web.Http.dll
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\System.Web.Mvc.dll
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\System.Web.Optimization.dll
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\System.Web.Razor.dll
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\System.Web.WebPages.Deployment.dll
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\System.Web.WebPages.dll
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\System.Web.WebPages.Razor.dll
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\WebGrease.dll
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\AngularJs.MVC.pdb
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\FluentValidation.pdb
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\FluentValidation.xml
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\StructureMap.pdb
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\StructureMap.xml
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\System.Net.Http.Formatting.xml
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\System.Web.Http.xml
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\System.Web.Helpers.xml
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\System.Web.Mvc.xml
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\System.Web.Optimization.xml
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\System.Web.Razor.xml
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\System.Web.WebPages.xml
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\System.Web.WebPages.Deployment.xml
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\System.Web.WebPages.Razor.xml
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\Newtonsoft.Json.xml
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\Antlr3.Runtime.pdb
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\EntityFramework.xml
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\EntityFramework.SqlServer.xml
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\Microsoft.AspNet.Identity.Core.xml
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\Microsoft.AspNet.Identity.Owin.xml
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\Microsoft.Owin.xml
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\Microsoft.Owin.Security.xml
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\Microsoft.Owin.Security.Facebook.xml
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\Microsoft.Owin.Security.Cookies.xml
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\Microsoft.Owin.Security.OAuth.xml
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\Microsoft.Owin.Security.Google.xml
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\Microsoft.Owin.Security.Twitter.xml
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\de\FluentValidation.resources.dll
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\es\FluentValidation.resources.dll
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\fr\FluentValidation.resources.dll
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\it\FluentValidation.resources.dll
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\nl\FluentValidation.resources.dll
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\pl\FluentValidation.resources.dll
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\pt\FluentValidation.resources.dll
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\ru\FluentValidation.resources.dll
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\sv\FluentValidation.resources.dll
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\bin\tr\FluentValidation.resources.dll
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\obj\Debug\AngularAssignment.csprojResolveAssemblyReference.cache
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\obj\Debug\AngularAssignment.dll
+\\172.27.218.12\Shared\MagicalAngularjs\AngularAssignment\obj\Debug\AngularAssignment.pdb
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\AngularAssignment.dll.config
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\AngularAssignment.dll
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\AngularAssignment.pdb
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\AngularJs.MVC.dll
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\Antlr3.Runtime.dll
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\EntityFramework.dll
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\EntityFramework.SqlServer.dll
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\FluentValidation.dll
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\Microsoft.Owin.dll
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\Microsoft.Owin.Security.dll
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\Microsoft.Owin.Security.Google.dll
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\Microsoft.Web.Infrastructure.dll
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\Newtonsoft.Json.dll
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\Owin.dll
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\StructureMap.dll
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\System.Net.Http.Formatting.dll
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\System.Web.Helpers.dll
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\System.Web.Http.dll
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\System.Web.Mvc.dll
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\System.Web.Optimization.dll
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\System.Web.Razor.dll
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\System.Web.WebPages.Deployment.dll
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\System.Web.WebPages.dll
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\System.Web.WebPages.Razor.dll
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\WebGrease.dll
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\AngularJs.MVC.pdb
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\FluentValidation.pdb
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\FluentValidation.xml
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\StructureMap.pdb
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\StructureMap.xml
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\System.Net.Http.Formatting.xml
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\System.Web.Http.xml
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\System.Web.Helpers.xml
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\System.Web.Mvc.xml
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\System.Web.Optimization.xml
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\System.Web.Razor.xml
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\System.Web.WebPages.xml
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\System.Web.WebPages.Deployment.xml
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\System.Web.WebPages.Razor.xml
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\Newtonsoft.Json.xml
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\Antlr3.Runtime.pdb
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\EntityFramework.xml
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\EntityFramework.SqlServer.xml
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\Microsoft.Owin.xml
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\Microsoft.Owin.Security.xml
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\Microsoft.Owin.Security.Google.xml
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\de\FluentValidation.resources.dll
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\es\FluentValidation.resources.dll
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\fr\FluentValidation.resources.dll
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\it\FluentValidation.resources.dll
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\nl\FluentValidation.resources.dll
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\pl\FluentValidation.resources.dll
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\pt\FluentValidation.resources.dll
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\ru\FluentValidation.resources.dll
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\sv\FluentValidation.resources.dll
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\bin\tr\FluentValidation.resources.dll
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\obj\Debug\AngularAssignment.csprojResolveAssemblyReference.cache
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\obj\Debug\AngularAssignment.dll
+D:\Insight-cloud\MagicalAngularjs\AngularAssignment\obj\Debug\AngularAssignment.pdb
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\AngularAssignment.dll.config
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\AngularAssignment.dll
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\AngularAssignment.pdb
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\AngularJs.MVC.dll
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\Antlr3.Runtime.dll
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\EntityFramework.dll
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\EntityFramework.SqlServer.dll
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\FluentValidation.dll
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\Microsoft.AspNet.Identity.Core.dll
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\Microsoft.Owin.dll
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\Microsoft.Owin.Security.Cookies.dll
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\Microsoft.Owin.Security.dll
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\Microsoft.Owin.Security.Facebook.dll
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\Microsoft.Owin.Security.Google.dll
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\Microsoft.Owin.Security.OAuth.dll
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\Microsoft.Owin.Security.Twitter.dll
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\Microsoft.Web.Infrastructure.dll
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\Newtonsoft.Json.dll
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\Owin.dll
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\StructureMap.dll
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\System.Net.Http.Formatting.dll
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\System.Web.Helpers.dll
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\System.Web.Http.dll
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\System.Web.Mvc.dll
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\System.Web.Optimization.dll
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\System.Web.Razor.dll
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\System.Web.WebPages.Deployment.dll
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\System.Web.WebPages.dll
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\System.Web.WebPages.Razor.dll
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\WebGrease.dll
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\AngularJs.MVC.pdb
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\FluentValidation.pdb
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\FluentValidation.xml
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\StructureMap.pdb
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\StructureMap.xml
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\System.Net.Http.Formatting.xml
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\System.Web.Http.xml
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\System.Web.Helpers.xml
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\System.Web.Mvc.xml
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\System.Web.Optimization.xml
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\System.Web.Razor.xml
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\System.Web.WebPages.xml
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\System.Web.WebPages.Deployment.xml
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\System.Web.WebPages.Razor.xml
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\Newtonsoft.Json.xml
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\Antlr3.Runtime.pdb
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\EntityFramework.xml
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\EntityFramework.SqlServer.xml
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\Microsoft.AspNet.Identity.Core.xml
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\Microsoft.Owin.xml
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\Microsoft.Owin.Security.xml
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\Microsoft.Owin.Security.Facebook.xml
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\Microsoft.Owin.Security.Cookies.xml
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\Microsoft.Owin.Security.OAuth.xml
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\Microsoft.Owin.Security.Google.xml
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\Microsoft.Owin.Security.Twitter.xml
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\de\FluentValidation.resources.dll
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\es\FluentValidation.resources.dll
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\fr\FluentValidation.resources.dll
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\it\FluentValidation.resources.dll
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\nl\FluentValidation.resources.dll
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\pl\FluentValidation.resources.dll
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\pt\FluentValidation.resources.dll
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\ru\FluentValidation.resources.dll
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\sv\FluentValidation.resources.dll
+D:\123K Insight-cloud\Angularjs\AngularAssignment\bin\tr\FluentValidation.resources.dll
+D:\123K Insight-cloud\Angularjs\AngularAssignment\obj\Debug\AngularAssignment.csprojResolveAssemblyReference.cache
+D:\123K Insight-cloud\Angularjs\AngularAssignment\obj\Debug\AngularAssignment.dll
+D:\123K Insight-cloud\Angularjs\AngularAssignment\obj\Debug\AngularAssignment.pdb

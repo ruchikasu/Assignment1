@@ -1,0 +1,25 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<h2>Index</h2>
+@*<link href="~/Content/bootstrap.min.css" rel="stylesheet" />*@
+
+<body>
+    <div>
+        <div>
+            <div class="col-sm-12">
+                
+               
+                 <a href="showemployees" class="btn btn-primary col-sm-3" style="margin-right"> Show Employees </a>&nbsp;&nbsp;
+                <a href="addemployee" class="btn btn-primary col-sm-3"> Add Employee </a>
+                    
+            </div>
+            <div>
+                <div ng-view></div>
+            </div>
+        </div>
+    </div>
+</body>

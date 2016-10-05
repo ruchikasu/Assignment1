@@ -1,0 +1,36 @@
+﻿@{
+    ViewBag.Title = "DeleteEmployee";
+}
+
+<h2>ShowEmployee</h2>
+<h3>List of Employees</h3>
+<button ng-click="addEmployee()"> Add Employee </button><br /><br />
+<table class="table table-bordered table-hover table-striped  table-condensed">
+    <thead>
+        <tr>
+            <th>EmpNo</th>
+            <th>EmpName</th>
+            <th>Salary</th>
+            <th>DeptName</th>
+            <th>Designation</th>
+            <th>Actions</th>
+            
+        </tr>
+    </thead>
+    <tbody>
+        <tr ng-repeat="Emp in Employees">
+            <td>{{Emp.EmpNo}}</td>
+            <td>{{Emp.EmpName}}</td>
+            <td>{{Emp.Salary}}</td>
+            <td>{{Emp.DeptName}}</td>
+            <td>{{Emp.Designation}}</td>
+            <td><i style="cursor:pointer; color:blue;" ng-click="editEmployee(Emp.EmpNo)">Edit</i> &nbsp;&nbsp;
+                <i style="cursor: pointer; color: blue;" ng-click="deleteEmployee(Emp.EmpNo)" >Delete</i>
+            </td>            
+        </tr>
+    </tbody>
+</table>
+
+<div>{{error}}</div>
+
+
